@@ -1,0 +1,85 @@
+X with 0 and 1 in group
+
+01X confusion matrix  [[29  3]
+ 		      [12 16]]
+
+01X accuracy matrix  0.75
+
+
+Y with 0 and 1 in group
+--------------------------------------------------------------------
+01Y confusion matrix  [[20 13]
+ 		      [ 6 21]]
+
+01Y accuracy matrix  0.6833333333333333
+
+
+
+
+XY with 0 and 1 in group
+--------------------------------------------------------------------
+01XY confusion matrix  [[32  4]
+ 		       [11 13]]
+
+01XY accuracy matrix  0.75
+
+
+
+
+
+
+X with 0 in group
+--------------------------------------------------------------------
+
+0X confusion matrix  [[10  0]
+ 		     [ 6  4]]
+
+0X accuracy matrix  0.7
+
+
+
+
+
+
+Y with 0 in group
+--------------------------------------------------------------------
+0Y confusion matrix  [[8 2]
+ 		     [6 4]]
+
+0Y accuracy matrix  0.6
+
+
+xy with 0 in group
+--------------------------------------------------------------------
+0XY confusion matrix  [[9 2]
+ 		      [4 5]]
+
+0XY accuracy matrix  0.7
+
+
+
+X with 1 in group
+--------------------------------------------------------------------
+1X confusion matrix  [[20  1]
+ 		     [ 9 10]]
+
+1X accuracy matrix  0.75
+
+
+
+Y with 1 in group
+--------------------------------------------------------------------
+1Y confusion matrix  [[12  4]
+ 		     [ 7 17]]
+
+1Y accuracy matrix  0.725
+
+
+
+
+XY with 1 in group
+--------------------------------------------------------------------
+1XY confusion matrix  [[12  4]
+ 		      [12 12]]
+
+1XY accuracy matrix  0.6
